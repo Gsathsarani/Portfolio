@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 const experiences = [
   {
-    date: "Sep 2025 – Present",
+    date: "Sep 2025 – Jul 2026",
     title: "Associate UI/UX Engineer",
     company: "TeachMeIt Software Solutions · Remote",
     description:
