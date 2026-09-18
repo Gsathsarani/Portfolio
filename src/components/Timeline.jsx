@@ -1,13 +1,13 @@
 import { useEffect } from "react";
 
 const experiences = [
-  {
+  /*{
     date: "Sep 2025 – Jul 2026",
     title: "Associate UI/UX Engineer",
     company: "TeachMeIt Software Solutions · Remote",
     description:
       "Designing user-friendly web and mobile interfaces, creating wireframes, prototypes, design systems, and collaborating with developers for accurate implementation.",
-  },
+  },*/
   {
     date: "Aug 2024 – Aug 2025",
     title: "Intern UI/UX Engineer",
